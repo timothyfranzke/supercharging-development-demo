@@ -17,4 +17,8 @@ export class MoviesService {
   getMovies(): Observable<MovieResponse[]> {
     return this.http.get<MovieResponse[]>(this.moviesUrl);
   }
+
+  getMoviesFromImdbAPI(): Observable<MovieResponse[]> {
+    return this.http.get<MovieResponse[]>('https://imdb-api.com/en/API/Top250Movies/k_abc123');
+  }
 }
