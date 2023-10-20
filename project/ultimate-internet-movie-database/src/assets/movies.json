@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "The Shining",
+        "year": 1980,
+        "synopsis": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence.",
+        "poster": "path/to/posters/the-shining.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Friday the 13th",
+        "year": 1980,
+        "synopsis": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp.",
+        "poster": "path/to/posters/friday-the-13th.jpg"
+    },
+    {
+        "id": 3,
+        "title": "An American Werewolf in London",
+        "year": 1981,
+        "synopsis": "Two American tourists in England are attacked by a werewolf that none of the locals will admit exists.",
+        "poster": "path/to/posters/american-werewolf-in-london.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Poltergeist",
+        "year": 1982,
+        "synopsis": "A family's home is haunted by a host of demonic ghosts.",
+        "poster": "path/to/posters/poltergeist.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Thing",
+        "year": 1982,
+        "synopsis": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "poster": "path/to/posters/the-thing.jpg"
+    },
+    {
+        "id": 6,
+        "title": "A Nightmare on Elm Street",
+        "year": 1984,
+        "synopsis": "The monstrous spirit of a slain child murderer seeks revenge by invading the dreams of teenagers.",
+        "poster": "path/to/posters/nightmare-on-elm-street.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Day of the Dead",
+        "year": 1985,
+        "synopsis": "A small group of military officers and scientists dwell in an underground bunker as the world above is overrun by zombies.",
+        "poster": "path/to/posters/day-of-the-dead.jpg"
+    },
+    {
+        "id": 8,
+        "title": "The Fly",
+        "year": 1986,
+        "synopsis": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
+        "poster": "path/to/posters/the-fly.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Hellraiser",
+        "year": 1987,
+        "synopsis": "An unfaithful wife encounters the zombie of her dead lover while the demonic cenobites are pursuing him after he escaped their sadomasochistic underworld.",
+        "poster": "path/to/posters/hellraiser.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Child's Play",
+        "year": 1988,
+        "synopsis": "A single mother gives her son a much sought-after doll for his birthday, only to discover that it is possessed by the soul of a serial killer.",
+        "poster": "path/to/posters/childs-play.jpg"
+    }
+]

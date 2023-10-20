@@ -1,0 +1,21 @@
+<div class="movie-list-container">
+    <h1>1980s Horror Movies</h1>
+    <!--this is an auto complete using mat-autocomplete based on the movies array-->
+    
+    <mat-card *ngFor="let movie of movies" class="movie-card">
+      <mat-card-header>
+        <mat-card-title>
+          <a [routerLink]="['/movie', movie.id]" mat-button>{{ movie.name }}</a>
+        </mat-card-title>
+      </mat-card-header>
+  
+      <mat-card-content>
+        <p><strong>Release Year:</strong> {{ movie.releaseYear }} {{howOldIsThisMovie(movie.releaseYear)}} Years Old</p>
+        <p><strong>Synopsis:</strong> {{ movie.description }}</p>
+      </mat-card-content>
+  
+      <mat-card-actions>
+        <a [routerLink]="['/movie', movie.id]" mat-button>View Details</a>
+      </mat-card-actions>
+    </mat-card>
+  </div>
